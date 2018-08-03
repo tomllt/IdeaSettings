@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="org.apache.log4j.Category.error(message,t)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

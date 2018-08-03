@@ -1,0 +1,117 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:D:/download/eclipse-codestyle.xml" />
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="EXT_CONFIGURATION">
+      <value>
+        <option name="CVS_RSH" value="ssh" />
+        <option name="PRIVATE_KEY_FILE" value="" />
+        <option name="ADDITIONAL_PARAMETERS" value="" />
+        <option name="USE_INTERNAL_SSH_IMPLEMENTATION" value="false" />
+      </value>
+    </option>
+    <option name="SSH_CONFIGURATION">
+      <value SSH_TYPE="SSH1, SSH2">
+        <option name="USE_PPK" value="false" />
+        <option name="PATH_TO_PPK" value="" />
+      </value>
+    </option>
+    <option name="LOCAL_CONFIGURATION">
+      <value>
+        <option name="PATH_TO_CVS_CLIENT" value="cvs" />
+      </value>
+    </option>
+    <option name="PROXY_SETTINGS">
+      <value>
+        <option name="USE_PROXY" value="false" />
+        <option name="PROXY_HOST" value="" />
+        <option name="PROXY_PORT" value="8080" />
+        <option name="TYPE" value="0" />
+        <option name="LOGIN" value="" />
+        <option name="PASSWORD" value="" />
+      </value>
+    </option>
+    <option name="SSH_FOR_EXT_CONFIGURATION">
+      <value SSH_TYPE="SSH1, SSH2">
+        <option name="USE_PPK" value="false" />
+        <option name="PATH_TO_PPK" value="" />
+      </value>
+    </option>
+    <option name="PATH_TO_PASSWORD_FILE" />
+    <option name="TIMEOUT" value="10" />
+    <option name="MAKE_CHECKED_OUT_FILES_READONLY" value="false" />
+    <option name="CHECKOUT_PRUNE_EMPTY_DIRECTORIES" value="true" />
+    <option name="CHECKOUT_KEYWORD_SUBSTITUTION" />
+    <option name="SHOW_RESTORE_DIRECTORIES_CONFIRMATION" value="true" />
+    <option name="ENCODING" value="Default" />
+    <option name="USE_GZIP" value="false" />
+    <option name="DO_OUTPUT" value="false" />
+    <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
+    <option name="SHOW_PATH" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:/Python/Python36/python3.exe" value="false" />
+        <entry key="C:/Python27/python.exe" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="false" url="http://205F6A:8006">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{project} {id} {summary}</commitMessageFormat>
+      <password>dfdedfcbdfc6dfcfdf9adf9ddf98df9f</password>
+      <option name="inCloud" value="false" />
+      <option name="jiraVersion" value="7.2.1" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>tomllt</username>
+    </JIRA>
+    <JIRA shared="false" url="http://192.168.8.101:8006">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>dfdedfcbdfc6dfcfdf9adf9ddf98df9f</password>
+      <option name="inCloud" value="false" />
+      <option name="jiraVersion" value="6.3.6" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>tomllt</username>
+    </JIRA>
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://tom-thinkpad/svn/hasplider/trunk" />
+        <option value="http://www.yessrv.com/svn/nshawq/trunk" />
+        <option value="http://www.yessrv.com/svn/datax/trunk" />
+        <option value="http://code.taobao.org/svn/datax/trunk" />
+        <option value="https://svn.apache.org/repos/asf/sqoop/branches/" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://tom-thinkpad/svn/hasplider/trunk" />
+        <option value="http://www.yessrv.com/svn/nshawq/trunk" />
+        <option value="http://www.yessrv.com/svn/datax/trunk" />
+        <option value="http://code.taobao.org/svn/datax/trunk" />
+        <option value="http://code.taobao.org/svn/datax/" />
+        <option value="https://svn.apache.org/repos/asf/sqoop/branches/" />
+        <option value="https://svn.apache.org/repos/asf/incubator/sqoop/" />
+        <option value="https://svn.apache.org/repos/asf/sqoop/branches/branch-1.4.2" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="C:\Program Files\TortoiseSVN\bin\svn.exe" />
+  </component>
+</application>
