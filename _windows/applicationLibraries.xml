@@ -7,45 +7,5 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="Python 3.6.4 (C:\Python\Python36\python3.exe) interpreter library">
-      <CLASSES>
-        <root url="file://C:/Python/Python36/DLLs" />
-        <root url="file://C:/Python/Python36/Lib" />
-        <root url="file://C:/Python/Python36" />
-        <root url="file://C:/Python/Python36/Lib/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2016.3/system/python_stubs/-1338941227" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://C:/Python/Python36/DLLs" />
-        <root url="file://C:/Python/Python36/Lib" />
-        <root url="file://C:/Python/Python36" />
-        <root url="file://C:/Python/Python36/Lib/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2016.3/system/python_stubs/-1338941227" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-      </SOURCES>
-    </library>
-    <library name="scala-sdk-2.11.11" type="Scala">
-      <properties>
-        <compiler-classpath>
-          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.11.11.jar" />
-          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar" />
-          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.11.jar" />
-        </compiler-classpath>
-      </properties>
-      <CLASSES>
-        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar!/" />
-        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.11.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/docs/scala-library-2.11.11-javadoc.jar!/" />
-        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/docs/scala-reflect-2.11.11-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.11-sources.jar!/" />
-        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.11.11-sources.jar!/" />
-      </SOURCES>
-    </library>
   </component>
 </application>
