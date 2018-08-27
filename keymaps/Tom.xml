@@ -12,6 +12,9 @@
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
   <action id="Console.TableResult.DeleteRows" />
+  <action id="ECTranslation">
+    <mouse-shortcut keystroke="shift button1" />
+  </action>
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
