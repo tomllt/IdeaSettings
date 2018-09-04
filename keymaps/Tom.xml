@@ -21,6 +21,7 @@
   <action id="EditorDeleteLine" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="Javaee.Deploy">
     <keyboard-shortcut first-keystroke="shift ctrl alt f5" />
