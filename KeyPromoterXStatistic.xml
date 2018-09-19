@@ -22,7 +22,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Forward">
@@ -223,6 +223,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'TSNEStandardExample'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'mfw_url_feed (1)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'mfw_url_feed (1)'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
