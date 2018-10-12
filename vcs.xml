@@ -98,6 +98,10 @@
           <option name="url" value="https://github.com/tomllt/DataXServer.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zipingdong/datax-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Develop\Java\workspaces\idea_project" />
