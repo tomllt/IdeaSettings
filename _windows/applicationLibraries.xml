@@ -1,5 +1,40 @@
 <application>
   <component name="libraryTable">
+    <library name="Python 3.6 (DCK) interpreter library">
+      <CLASSES>
+        <root url="file://C:/Python/Python36/DLLs" />
+        <root url="file://C:/Python/Python36/Lib" />
+        <root url="file://C:/Python/Python36" />
+        <root url="file://D:/Develop/Java/workspaces/idea_project/DCK/python" />
+        <root url="file://D:/Develop/Java/workspaces/idea_project/DCK/python/Lib/site-packages" />
+        <root url="jar://D:/Develop/Java/workspaces/idea_project/DCK/python/Lib/site-packages/setuptools-39.1.0-py3.6.egg!/" />
+        <root url="file://D:/Develop/Java/workspaces/idea_project/DCK/python/Lib/site-packages/pip-10.0.1-py3.6.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.2/system/python_stubs/-2043711277" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Python/Python36/DLLs" />
+        <root url="file://C:/Python/Python36/Lib" />
+        <root url="file://C:/Python/Python36" />
+        <root url="file://D:/Develop/Java/workspaces/idea_project/DCK/python" />
+        <root url="file://D:/Develop/Java/workspaces/idea_project/DCK/python/Lib/site-packages" />
+        <root url="jar://D:/Develop/Java/workspaces/idea_project/DCK/python/Lib/site-packages/setuptools-39.1.0-py3.6.egg!/" />
+        <root url="file://D:/Develop/Java/workspaces/idea_project/DCK/python/Lib/site-packages/pip-10.0.1-py3.6.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.2/system/python_stubs/-2043711277" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Python 3.6 interpreter library">
       <CLASSES>
         <root url="file://C:/Python/Python36/DLLs" />
