@@ -110,7 +110,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>32</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile 'MnistLent5Main.java'">
@@ -174,7 +174,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'DbConnectTest'</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Ex01_FileSplit....main()'">
