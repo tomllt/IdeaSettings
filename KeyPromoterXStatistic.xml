@@ -25,6 +25,14 @@
           <Count>13</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'DbConnectTest'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'DbConnectTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'TSNEStandardExample'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -38,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>79</Count>
+          <Count>83</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -174,7 +182,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'DbConnectTest'</Description>
-          <Count>17</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Ex01_FileSplit....main()'">
@@ -278,6 +286,14 @@
           <IdeaActionID>StepOut</IdeaActionID>
           <ShortCut>'Shift+F8'</ShortCut>
           <Description>Step Out</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'DbConnectTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'DbConnectTest'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -390,7 +406,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
