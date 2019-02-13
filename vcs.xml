@@ -107,7 +107,15 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/tomllt/BERT-BiLSTM-CRF-NER.git" />
+          <option name="url" value="git@github.com:/tomllt/DCK.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/tomllt/DCK.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/letiantian/TextRank4ZH.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
