@@ -1,0 +1,27 @@
+<application>
+  <component name="TipsStore">
+    <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="$USER_HOME$/BIMserver" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/DataX" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/DataX-thestyleofme" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/DataX-wgzhao" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Desktop/Gitlab 审计项目代码/cloud-k8s-framework-master" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Desktop/projects" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Desktop/projects/microservices-platform" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Projects" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/audit-datacollection-api" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/audit-distributed-jobflow" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/audit-outsource" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/audit-rectification" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/cloud-k8s-framework" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/crawlab" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/dbeaver" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/goproject" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/lamp-cloud" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/lamp-util" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/message-tool" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/microservices-platform" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/springboot-datax" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/zuihou-admin-cloud" startUpFlag="FIRST" />
+  </component>
+</application>
