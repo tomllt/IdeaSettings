@@ -42,6 +42,10 @@
           <option name="url" value="https://github.com/fanux/sealos.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/geektime-geekbang/oauth2lab.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$" />

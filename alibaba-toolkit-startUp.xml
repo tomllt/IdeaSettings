@@ -16,12 +16,14 @@
     <entry projectPath="$USER_HOME$/cloud-k8s-framework" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/crawlab" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/dbeaver" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/flink" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/flinkx" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/goproject" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/lamp-cloud" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/lamp-util" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/message-tool" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/microservices-platform" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/oauth2lab" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/sealos" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/sealos-project" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/springboot-datax" startUpFlag="FIRST" />
