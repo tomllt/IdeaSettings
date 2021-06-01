@@ -27,6 +27,7 @@
     <entry projectPath="$USER_HOME$/sealos" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/sealos-project" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/springboot-datax" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/ymi/microservices-platform" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/zuihou-admin-cloud" startUpFlag="FIRST" />
   </component>
 </application>
